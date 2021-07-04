@@ -1,0 +1,776 @@
+[
+    {
+        "name": "EVGA GeForce RTX 3060 Ti FTW3 ULTRA GAMING 8GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/evga-geforce-rtx-3060-ti-ftw3-ultra-gaming-8gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "599.95",
+        "lastStockTs": "21/04/2021 11:49:01",
+        "id": "1"
+    },
+    {
+        "name": "PNY GeForce RTX 3080 10GB XLR8 Gaming EPIC-X RGB 10GB",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/pny-geforce-rtx-3080-10gb-xlr8-gaming-epic-x-rgb-10gb-gddr6x-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1599.95",
+        "lastStockTs": "21/04/2021 12:55:10",
+        "id": "2"
+    },
+    {
+        "name": "Zotac Gaming GeForce RTX 3070 Twin Edge OC White",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/917-zotac-gaming-geforce-rtx-3070-twin-edge-oc-white-edition-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "649,95",
+        "lastStockTs": "22/01/2021 21:20:25",
+        "id": "3"
+    },
+    {
+        "name": "ROG STRIX RADEON\u00e2\u201e\u00a2 RX 6800 OC 16GB GDDR6",
+        "store": "vsgamers",
+        "url": "https://www.vsgamers.es/product/tarjeta-grafica-asus-rog-strix-radeon-rx-6800-oc",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "4"
+    },
+    {
+        "name": "MSI GeForce RTX 3080 VENTUS 3X OC 10GB GDDR6X",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/msi-geforce-rtx-3080-ventus-3x-oc-10gb-gddr6x-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1599.95",
+        "lastStockTs": "21/04/2021 15:29:11",
+        "id": "5"
+    },
+    {
+        "name": "GIGABYTE RADEON RX 6800 XT GAMING OC",
+        "store": "vsgamers",
+        "url": "https://www.vsgamers.es/product/tarjeta-grafica-gigabyte-radeon-rx-6800-xt-gaming-oc-16gb-gddr6",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "6"
+    },
+    {
+        "name": "MSI GeForce RTX 3070 VENTUS 3X OC 8GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/msi-geforce-rtx-3070-ventus-3x-oc-8gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "7"
+    },
+    {
+        "name": "MSI GeForce RTX 3060 VENTUS 3X OC 12GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/msi-geforce-rtx-3060-ventus-3x-oc-12gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "799.96",
+        "lastStockTs": "21/04/2021 13:59:24",
+        "id": "8"
+    },
+    {
+        "name": "Asus TUF RTX 3060 Ti OC 8GB Gaming",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/tarjeta-grafica-asus-tuf-rtx-3060-ti-oc-8gb-gaming-7912.html",
+        "status": "OUT OF STOCK",
+        "price": "788.9926",
+        "lastStockTs": "14/04/2021 10:34:03",
+        "id": "9"
+    },
+    {
+        "name": "Zotac GeForce RTX 3060 Ti D6 Twin Edge OC 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/892-zotac-rtx-3060-ti-twin-edge-oc.html",
+        "status": "OUT OF STOCK",
+        "price": "549,95",
+        "lastStockTs": "26/01/2021 19:29:39",
+        "id": "10"
+    },
+    {
+        "name": "Palit GeForce RTX 3070 Jet Stream 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/906-palit-rtx-3070-jet-stream-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "649,95",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "11"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 3070 VISION 8GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/gigabyte-geforce-rtx-3070-vision-8gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "12"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 3070 GAMING OC 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/847-gigabyte-geforce-rtx-3070-gaming-oc-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "799,95",
+        "lastStockTs": "22/03/2021 15:13:37",
+        "id": "13"
+    },
+    {
+        "name": "Gigabyte Aorus RTX 3060 Ti Eagle 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/aorus-geforce-rtx-3060-ti-eagle-8gb-7897.html",
+        "status": "OUT OF STOCK",
+        "price": "688.9982",
+        "lastStockTs": "14/04/2021 10:34:31",
+        "id": "14"
+    },
+    {
+        "name": "Gigabyte GV-N3070VISION OC-8GD",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14068-gigabyte-gv-n3070vision-oc-8gd",
+        "status": "OUT OF STOCK",
+        "price": "674.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "15"
+    },
+    {
+        "name": "Gigabyte GV-N306TEAGLE OC-8GD",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14063-gigabyte-gv-n306teagle-oc-8gd",
+        "status": "OUT OF STOCK",
+        "price": "513.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "16"
+    },
+    {
+        "name": "Gigabyte RTX 3070 Aorus Master 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/gigbyte-rtx-3070-aorus-master-8gb-7770.html",
+        "status": "OUT OF STOCK",
+        "price": "1128.9905",
+        "lastStockTs": "15/04/2021 13:04:53",
+        "id": "17"
+    },
+    {
+        "name": "Zotac Gaming GeForce RTX 3080 Trinity OC 10GB GDDR6X",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/zotac-gaming-geforce-rtx-3080-trinity-oc-10gb-gddr6x-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1599.95",
+        "lastStockTs": "21/04/2021 13:04:06",
+        "id": "18"
+    },
+    {
+        "name": "Palit GeForce RTX 3060 Ti Dual 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/908-palit-geforce-rtx-3060-ti-dual-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "529,95",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "19"
+    },
+    {
+        "name": "Asus TUF-RTX3070-O8G-GAMING",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14046-asus-tuf-rtx3070-o8g-gaming",
+        "status": "OUT OF STOCK",
+        "price": "749.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "20"
+    },
+    {
+        "name": "Asus ROG-STRIX-RTX3070-O8G-GAMING",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14045-asus-rog-strix-rtx3070-o8g-gaming",
+        "status": "OUT OF STOCK",
+        "price": "818.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "21"
+    },
+    {
+        "name": "Asus TUF RTX 3070 OC Gaming 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/asus-tuf-rtx-3070-gaming-8gb-7822.html",
+        "status": "OUT OF STOCK",
+        "price": "988.9935",
+        "lastStockTs": "14/04/2021 10:34:27",
+        "id": "22"
+    },
+    {
+        "name": "Zotac GAMING GeForce RTX 3070 Twin Edge 8GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/zotac-gaming-geforce-rtx-3070-twin-edge-8gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "899.95",
+        "lastStockTs": "19/04/2021 17:13:54",
+        "id": "23"
+    },
+    {
+        "name": "Asus Dual RTX 3060 Ti 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/tarjeta-grafica-asus-dual-rtx3060ti-8gb-7914.html",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "24"
+    },
+    {
+        "name": "Gigabyte GV-N306TGAMING OC-8GD",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14062-gigabyte-gv-n306tgaming-oc-8gd",
+        "status": "OUT OF STOCK",
+        "price": "538.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "25"
+    },
+    {
+        "name": "Asus ROG Strix RTX 3070 8GB Gaming",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/asus-rog-strix-rtx-3070-8gb-gaming-7292.html",
+        "status": "OUT OF STOCK",
+        "price": "1128.9905",
+        "lastStockTs": "14/04/2021 10:34:37",
+        "id": "26"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 3060 Ti GAMING OC 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/907-gigabyte-geforce-rtx-3060-ti-gaming-oc-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "489,95",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "27"
+    },
+    {
+        "name": "ASUS TUF RTX3070 OC GAMING 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/tarjeta-grafica-asus-tuf-rtx3070-oc-gaming-8gb-7961.html",
+        "status": "OUT OF STOCK",
+        "price": "825.3652",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "28"
+    },
+    {
+        "name": "EVGA GeForce RTX 3080 FTW3 Gaming 10GB GDDR6X",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/evga-geforce-rtx-3080-ftw3-gaming-10gb-gddr6x-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1499.95",
+        "lastStockTs": "21/04/2021 05:37:19",
+        "id": "29"
+    },
+    {
+        "name": "Gigabyte GV-N3070AORUS M-8GD",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14067-gigabyte-gv-n3070aorus-m-8gd",
+        "status": "OUT OF STOCK",
+        "price": "848.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "30"
+    },
+    {
+        "name": "PNY GeForce RTX 3070 XLR8 Gaming EPIC-X RGB",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/pny-geforce-rtx-3070-xlr8-gaming-epic-x-rgb-8gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1299.95",
+        "lastStockTs": "21/04/2021 15:59:51",
+        "id": "31"
+    },
+    {
+        "name": "Zotac GeForce RTX 3060 Twin Edge 12GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/zotac-geforce-rtx-3060-twin-edge-12gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "749.95",
+        "lastStockTs": "21/04/2021 05:09:14",
+        "id": "32"
+    },
+    {
+        "name": "Gigabyte AORUS GeForce RTX 3080 Xtreme 10GB GDDR6X",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/gigabyte-aorus-geforce-rtx-3080-xtreme-10gb-gddr6x-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1099.95",
+        "lastStockTs": "21/04/2021 15:14:39",
+        "id": "33"
+    },
+    {
+        "name": "Gigabyte RTX 3080 Aorus Xtreme 10GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/gigabyte-rtx-3080-aorus-x-10gb-7840.html",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "34"
+    },
+    {
+        "name": "Asus ROG Strix RTX 3070 White 8GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/asus-rog-strix-rtx-3070-white-8gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1099.94",
+        "lastStockTs": "21/04/2021 12:33:46",
+        "id": "35"
+    },
+    {
+        "name": "Asus ROG Strix GeForce RTX 3070 GAMING 8GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/asus-rog-strix-geforce-rtx-3070-gaming-8gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1299.95",
+        "lastStockTs": "21/04/2021 09:16:30",
+        "id": "36"
+    },
+    {
+        "name": "MSI GeForce RTX 3060 GAMING X 12GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/msi-geforce-rtx-3060-gaming-x-12gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "799.96",
+        "lastStockTs": "21/04/2021 14:36:26",
+        "id": "37"
+    },
+    {
+        "name": "Asus Dual RTX 3070 OC 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/asus-dual-rtx-3070-oc-8gb-7293.html",
+        "status": "OUT OF STOCK",
+        "price": "988.9935",
+        "lastStockTs": "27/01/2021 17:43:56",
+        "id": "38"
+    },
+    {
+        "name": "MSI GeForce RTX 3090 GAMING X TRIO 24GB GDDR6X",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/msi-geforce-rtx-3090-gaming-x-trio-24gb-gddr6x-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "39"
+    },
+    {
+        "name": "Asus DUAL-RTX3070-8G",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14044-asus-dual-rtx3070-8g",
+        "status": "OUT OF STOCK",
+        "price": "679.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "40"
+    },
+    {
+        "name": "Gigabyte GV-N3070GAMING OC-8GD",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14025-gigabyte-gv-n3070gaming-oc-8gd",
+        "status": "OUT OF STOCK",
+        "price": "674.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "41"
+    },
+    {
+        "name": "Gigabyte RTX 3070 Gaming OC 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/gigabyte-rtx-3070-gaming-oc-8gb-7484.html",
+        "status": "OUT OF STOCK",
+        "price": "988.9935",
+        "lastStockTs": "18/04/2021 20:19:10",
+        "id": "42"
+    },
+    {
+        "name": "Palit GeForce RTX 3070 GAMEROCK OC 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/910-palit-geforce-rtx-3070-gamerock-oc-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "669,95",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "43"
+    },
+    {
+        "name": "MSI GeForce RTX 3060 Ti GAMING X TRIO 8GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/msi-geforce-rtx-3060-ti-gaming-x-trio-8gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "899.95",
+        "lastStockTs": "21/04/2021 15:09:39",
+        "id": "44"
+    },
+    {
+        "name": "PNY GeForce RTX 3060 XLR8 Gaming REVEL EPIC-X RGB",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/pny-geforce-rtx-3060-xlr8-gaming-revel-epic-x-rgb-single-fan-12gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "799.96",
+        "lastStockTs": "21/04/2021 03:40:53",
+        "id": "45"
+    },
+    {
+        "name": "MSI GeForce RTX 3070 Ventus 2X OC",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14026-msi-geforce-rtx-3070-ventus-2x-oc",
+        "status": "OUT OF STOCK",
+        "price": "732.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "46"
+    },
+    {
+        "name": "Gigabyte GV-N3070EAGLE OC-8GD",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14092-gigabyte-gv-n3070eagle-oc-8gd",
+        "status": "OUT OF STOCK",
+        "price": "636.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "47"
+    },
+    {
+        "name": "EVGA GeForce RTX 3070 XC3 ULTRA GAMING 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/883-evga-geforce-rtx-3070-xc3-ultra-gaming-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "669,95",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "48"
+    },
+    {
+        "name": "Asus Dual RTX 3060 Ti OC 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/tarjeta-grafica-asus-dual-rtx-3060-ti-oc-8gb-7913.html",
+        "status": "OUT OF STOCK",
+        "price": "788.9926",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "49"
+    },
+    {
+        "name": "Gigabyte AORUS GeForce RTX 3070 MASTER 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/881-gigabyte-aorus-geforce-rtx-3070-master-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "849,95",
+        "lastStockTs": "28/01/2021 11:05:58",
+        "id": "50"
+    },
+    {
+        "name": "GEFORCE RTX 3060 TI MASTER 8G",
+        "store": "vsgamers",
+        "url": "https://www.vsgamers.es/product/tarjeta-grafica-gigabyte-geforce-rtxr-3060-ti-master-8g",
+        "status": "OUT OF STOCK",
+        "price": "579.89",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "51"
+    },
+    {
+        "name": "Asus ROG Strix RTX 3070 White Edition",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/tarjeta-grafica-asus-rog-strix-geforce-rtx-3070-white-edition-8523.html",
+        "status": "OUT OF STOCK",
+        "price": "888.9991",
+        "lastStockTs": "16/04/2021 00:18:24",
+        "id": "52"
+    },
+    {
+        "name": "GEFORCE RTX 3060 TI EAGLE OC 8G",
+        "store": "vsgamers",
+        "url": "https://www.vsgamers.es/product/tarjeta-grafica-gigabyte--geforce-rtxr-3060-ti-eagle-oc-8g",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "53"
+    },
+    {
+        "name": "Palit GeForce RTX 3070 GAMING PRO 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/879-palit-geforce-rtx-3070-gaming-pro-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "594,95",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "54"
+    },
+    {
+        "name": "EVGA GeForce RTX 3080 XC3 Gaming 10GB GDDR6X",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/evga-geforce-rtx-3080-xc3-gaming-10gb-gddr6x-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1449.96",
+        "lastStockTs": "21/04/2021 14:53:44",
+        "id": "55"
+    },
+    {
+        "name": "MSI GeForce RTX 3070 SUPRIM X 8GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/msi-geforce-rtx-3070-suprim-x-8gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1199.94",
+        "lastStockTs": "21/04/2021 12:52:41",
+        "id": "56"
+    },
+    {
+        "name": "Gigabyte Aorus RTX 3060 Ti Master 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/aorus-geforce-rtx-3060-ti-master-8gb-7863.html",
+        "status": "OUT OF STOCK",
+        "price": "788.9926",
+        "lastStockTs": "24/03/2021 19:32:40",
+        "id": "57"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 3060 Ti AORUS MASTER",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/888-gigabyte-geforce-rtx-3060-ti-aorus-master.html",
+        "status": "OUT OF STOCK",
+        "price": "649,95",
+        "lastStockTs": "21/01/2021 20:52:11",
+        "id": "58"
+    },
+    {
+        "name": "AMD Radeon VII 16GB HBM2",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/amd-radeon-vii-16gb-hbm2-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "59"
+    },
+    {
+        "name": "Zotac GAMING GeForce RTX 3080 Trinity 10GB GDDR6X",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/zotac-gaming-geforce-rtx-3080-trinity-10gb-gddr6x-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1499.95",
+        "lastStockTs": "20/04/2021 22:09:48",
+        "id": "60"
+    },
+    {
+        "name": "MSI GeForce RTX 3060 Ti VENTUS 3X OC 8GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/msi-geforce-rtx-3060-ti-ventus-3x-oc-8gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "61"
+    },
+    {
+        "name": "Asus TUF Gaming GeForce RTX 3060 12GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/asus-tuf-gaming-geforce-rtx-3060-12gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "699.95",
+        "lastStockTs": "21/04/2021 07:24:51",
+        "id": "62"
+    },
+    {
+        "name": "Asus Dual RTX 3070 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/asus-dual-rtx-3070-8gb-7294.html",
+        "status": "OUT OF STOCK",
+        "price": "988.9935",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "63"
+    },
+    {
+        "name": "ZOTAC RTX 3060 TI Twin Edge",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14058-zotac-rtx-3060-ti-twin-edge",
+        "status": "OUT OF STOCK",
+        "price": "509.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "64"
+    },
+    {
+        "name": "Gigabyte RTX 3060 Ti Gaming OC Pro 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx3060ti-gaming-oc-pro-8-7918.html",
+        "status": "OUT OF STOCK",
+        "price": "688.9982",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "65"
+    },
+    {
+        "name": "ZOTAC RTX 3060 TI Twin Edge OC",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14059-zotac-rtx-3060-ti-twin-edge-oc",
+        "status": "OUT OF STOCK",
+        "price": "590.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "66"
+    },
+    {
+        "name": "NVIDIA GEFORCE RTX 3080 VENTUS 3X OC 10GB",
+        "store": "vsgamers",
+        "url": "https://www.vsgamers.es/product/tarjeta-grafica-msi-geforce-rtx-3080-ventus-3x-10g-oc-10-gb-gddr6x",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "67"
+    },
+    {
+        "name": "Gigabyte RTX 3060 Ti Gaming OC 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx-3060ti-gaming-oc-8gb-7917.html",
+        "status": "OUT OF STOCK",
+        "price": "788.9926",
+        "lastStockTs": "14/04/2021 01:09:51",
+        "id": "68"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 3070 EAGLE 8GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/gigabyte-geforce-rtx-3070-eagle-8gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "729.94",
+        "lastStockTs": "21/04/2021 12:50:05",
+        "id": "69"
+    },
+    {
+        "name": "MSI GeForce RTX 3060 VENTUS 2X OC 12GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/msi-geforce-rtx-3060-ventus-2x-oc-12gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "774.94",
+        "lastStockTs": "21/04/2021 16:17:12",
+        "id": "70"
+    },
+    {
+        "name": "Asus TUF Gaming GeForce RTX 3070 OC 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/912-asus-tuf-gaming-geforce-rtx-3070-oc-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "809,95",
+        "lastStockTs": "16/04/2021 10:38:47",
+        "id": "71"
+    },
+    {
+        "name": "EVGA GeForce RTX 3080 XC3 Ultra Gaming 10GB GDDR6X",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/evga-geforce-rtx-3080-xc3-ultra-gaming-10gb-gddr6x-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1649.96",
+        "lastStockTs": "21/04/2021 15:38:44",
+        "id": "72"
+    },
+    {
+        "name": "EVGA GeForce RTX 3080 XC3 Black Gaming 10GB GDDR6X",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/evga-geforce-rtx-3080-xc3-black-gaming-10gb-gddr6x-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1449.96",
+        "lastStockTs": "21/04/2021 02:17:13",
+        "id": "73"
+    },
+    {
+        "name": "Gigabyte RTX 3070 Vision OC 8GB",
+        "store": "neobyte",
+        "url": "https://www.neobyte.es/gigabyte-rtx-3070-vision-oc-8gb-7788.html",
+        "status": "OUT OF STOCK",
+        "price": "988.9935",
+        "lastStockTs": "27/01/2021 14:50:23",
+        "id": "74"
+    },
+    {
+        "name": "MSI GeForce RTX 3080 SUPRIM X 10GB GDDR6X",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/msi-geforce-rtx-3080-suprim-x-10gb-gddr6x-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1599.95",
+        "lastStockTs": "21/04/2021 10:35:04",
+        "id": "75"
+    },
+    {
+        "name": "PNY GeForce RTX 3080 XLR8 Gaming EPIC-X RGB 10GB",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/pny-geforce-rtx-3080-xlr8-gaming-epic-x-rgb-10gb-gddr6x-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "1699.95",
+        "lastStockTs": "21/04/2021 14:44:36",
+        "id": "76"
+    },
+    {
+        "name": "Palit GeForce RTX 3060 Ti Gaming Pro 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/905-palit-rtx-3060-ti-gaming-pro-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "479,95",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "77"
+    },
+    {
+        "name": "MSI GeForce RTX 3060 VENTUS 2X 12GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/msi-geforce-rtx-3060-ventus-2x-12gb-gddr6-tarjeta-grafica-precio",
+        "status": "OUT OF STOCK",
+        "price": "749.95",
+        "lastStockTs": "21/04/2021 11:55:01",
+        "id": "78"
+    },
+    {
+        "name": "EVGA GeForce RTX 3070 XC3 BLACK GAMING 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/853-evga-geforce-rtx-3070-xc3-black-gaming-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "649,95",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "79"
+    },
+    {
+        "name": "MSI GeForce RTX 3060 GAMING X TRIO 12GB GDDR6",
+        "store": "coolmod",
+        "url": "https://www.coolmod.com/msi-geforce-rtx-3060-gaming-x-trio-12gb-gddr6-tarjeta-grafica-precio",
+        "status": "IN STOCK",
+        "price": "899.95",
+        "lastStockTs": "21/04/2021 16:20:06",
+        "id": "80"
+    },
+    {
+        "name": "NITRO + AMD RADEON RX 6800 XT SE 16 GB GDDR6",
+        "store": "vsgamers",
+        "url": "https://www.vsgamers.es/product/tarjeta-grafaica-sapphire-nitro-radeon-rx-6800-xt-se-amd-16-gb-gddr6",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "81"
+    },
+    {
+        "name": "Asus TUF GeForce RTX 3060 Ti OC Gaming 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/919-asus-tuf-geforce-rtx-3060-ti-oc-gaming-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "599,95",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "82"
+    },
+    {
+        "name": "GEFORCE RTX 3060 TI VENTUS 2X OCV1 8GB GDDR6",
+        "store": "vsgamers",
+        "url": "https://www.vsgamers.es/product/tarjeta-grafica-geforce-rtx-3060-ti-ventus-2x-ocv1-8gb-gddr6",
+        "status": "OUT OF STOCK",
+        "price": "1399.95",
+        "lastStockTs": "21/04/2021 15:22:15",
+        "id": "83"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 3070 VISION OC 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/862-gigabyte-geforce-rtx-3070-vision-oc-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "799,95",
+        "lastStockTs": "26/01/2021 22:21:37",
+        "id": "84"
+    },
+    {
+        "name": "Gigabyte GeForce RTX 3070 EAGLE OC 8GB GDDR6",
+        "store": "siabyte",
+        "url": "https://siabyte.com/tarjetas-graficas/857-gigabyte-geforce-rtx-3070-eagle-oc-8gb-gddr6.html",
+        "status": "OUT OF STOCK",
+        "price": "649,95",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "85"
+    },
+    {
+        "name": "Gigabyte GV-N306TGAMINGOC PRO-8GD",
+        "store": "izarmicro",
+        "url": "https://www.izarmicro.net/componentes/tarjetas-graficas/geforce-rtx-3000/art-14066-gigabyte-gv-n306tgamingoc-pro-8gd",
+        "status": "OUT OF STOCK",
+        "price": "578.00",
+        "lastStockTs": "12/01/2021 14:57:10",
+        "id": "86"
+    }
+]

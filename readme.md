@@ -1,0 +1,1 @@
+run bot with `py main.py source.json`
